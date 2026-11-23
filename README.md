@@ -1,4 +1,5 @@
 # Voxxed Days Thessaloniki – Notes
+[Google Docs](https://docs.google.com/document/d/1I1LtdqUypmQAOqJEtAcQEnCiZ0v6dbCTKkuhBHNNgQE)
 
 ## Day 1
 

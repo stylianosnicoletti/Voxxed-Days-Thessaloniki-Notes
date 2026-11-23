@@ -32,7 +32,10 @@
 - <mark>A2A Agent Cards advertise agent capabilities (over a `.well-known` endpoint).</mark>
 - A2A SDKs and implementations are available across different languages.
 
-**Presentation slides:** [genai-beyond-basics](https://github.com/meteatamel/genai-beyond-basics)
+[Presentation Slides](https://files.speakerdeck.com/presentations/ff359ddf73544416aa21fb21c6388799/go_agent-protocols-intro_-_Tour_of_Agent_Protocols__MCP__A2A__A2UI__AG-UI_with_ADK.pdf?utm_source=chatgpt.com)
+
+[Presentation Code](https://github.com/meteatamel/genai-beyond-basics)
+
 
 ### 5. The Lazy Engineer's Guide to Scaling
 
@@ -72,7 +75,7 @@
 - <mark>Decouple agents to improve scalability and maintainability.</mark>
 - <mark>Support asynchronous workflows and long-running operations.</mark>
 
-**Presentation video**
+[Presentation video](https://youtu.be/SFqJLbndx1s?is=qTjIZrZin2w_c6-H&utm_source=chatgpt.com)
 
 ### 2. Has AI Broken Application Security Forever?
 
